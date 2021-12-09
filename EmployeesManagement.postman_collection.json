@@ -1,0 +1,204 @@
+{
+	"id": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+	"name": "EmployeesManagement",
+	"description": "",
+	"order": [
+		"63384aa9-a42c-0069-b3ff-acf5f1104d22",
+		"a9e5ef52-3e7e-f888-99e8-adef6b3a2975",
+		"91471a86-e927-a51b-8f51-bc12cd6da27a",
+		"200e71fe-3e5f-3335-cf86-2d1805928e24",
+		"37cfd5ce-b501-9168-2bc5-f8ee9efc0e4c"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1638912715537,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "200e71fe-3e5f-3335-cf86-2d1805928e24",
+			"headers": "",
+			"headerData": [],
+			"url": "https://localhost:44380/API/GetEmployeeDetails?GUID=e8b116f2-a0df-4e44-8271-a63265b7dfb6&EmployeeId=1",
+			"queryParams": [
+				{
+					"key": "GUID",
+					"value": "e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "EmployeeId",
+					"value": "1",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get Employee Details",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1638916318585,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "37cfd5ce-b501-9168-2bc5-f8ee9efc0e4c",
+			"headers": "",
+			"headerData": [],
+			"url": "https://localhost:44380/API/GetAllEmployees?GUID=e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+			"queryParams": [
+				{
+					"key": "GUID",
+					"value": "e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+			"data": null,
+			"dataMode": "params",
+			"name": "Get All Employees",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1638916341716,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "63384aa9-a42c-0069-b3ff-acf5f1104d22",
+			"headers": "",
+			"headerData": [],
+			"url": "https://localhost:44380/API/DeleteEmployee?GUID=e8b116f2-a0df-4e44-8271-a63265b7dfb6&EmployeeId=3",
+			"queryParams": [
+				{
+					"key": "GUID",
+					"value": "e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "EmployeeId",
+					"value": "3",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+			"data": null,
+			"dataMode": "params",
+			"name": "Delete Employee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1638916276934,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "91471a86-e927-a51b-8f51-bc12cd6da27a",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:44380/API/AddEmployee?GUID=e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+			"queryParams": [
+				{
+					"key": "GUID",
+					"value": "e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Add Employee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1638916302991,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n   \"FullName\":\"Mahmoud Alsadi\",\r\n   \"DepartmentId\":\"1\",\r\n   \"Salary\":\"1000\",\r\n   \"PhoneNumber\":\"0786103700\",\r\n   \"CountryId\":\"1\"\r\n}"
+		},
+		{
+			"id": "a9e5ef52-3e7e-f888-99e8-adef6b3a2975",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:44380/API/UpdateEmployee?GUID=e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+			"queryParams": [
+				{
+					"key": "GUID",
+					"value": "e8b116f2-a0df-4e44-8271-a63265b7dfb6",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "44f49aa9-e1b5-6f49-fd57-fef0c6fc9ca6",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Update Employee",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1638916290589,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n   \"EmployeeId\":1,\r\n   \"FullName\":\"Mahmoud Alsadii\",\r\n   \"DepartmentId\":\"2\",\r\n   \"Salary\":\"1200\",\r\n   \"PhoneNumber\":\"0786103701\",\r\n   \"CountryId\":\"3\"\r\n}"
+		}
+	]
+}
