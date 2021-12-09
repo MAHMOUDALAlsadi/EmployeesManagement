@@ -1,0 +1,15 @@
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.AssemblyInfoInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.AssemblyInfo.cs
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.csproj.CoreCompileInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.UseCase.deps.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.UseCase.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.UseCase.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.Repository.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp3.1\EmployeesManagement.Repository.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.csproj.AssemblyReference.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.csproj.CopyComplete
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp3.1\EmployeesManagement.UseCase.pdb

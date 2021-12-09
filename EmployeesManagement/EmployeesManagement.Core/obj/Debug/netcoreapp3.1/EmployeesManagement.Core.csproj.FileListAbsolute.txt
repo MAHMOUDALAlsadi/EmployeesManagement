@@ -1,0 +1,13 @@
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.csproj.AssemblyReference.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.AssemblyInfoInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.AssemblyInfo.cs
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.csproj.CoreCompileInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.deps.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.runtimeconfig.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.runtimeconfig.dev.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\bin\Debug\netcoreapp3.1\EmployeesManagement.Core.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Core\obj\Debug\netcoreapp3.1\EmployeesManagement.Core.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp2.2\EmployeesManagement.UseCase.deps.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp2.2\EmployeesManagement.UseCase.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\bin\Debug\netcoreapp2.2\EmployeesManagement.UseCase.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.csproj.AssemblyReference.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.AssemblyInfoInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.AssemblyInfo.cs
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.csproj.CoreCompileInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.UseCase\obj\Debug\netcoreapp2.2\EmployeesManagement.UseCase.pdb

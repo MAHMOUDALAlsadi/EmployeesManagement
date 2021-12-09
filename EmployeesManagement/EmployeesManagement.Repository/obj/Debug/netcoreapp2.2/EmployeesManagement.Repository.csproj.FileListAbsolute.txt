@@ -1,0 +1,9 @@
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\bin\Debug\netcoreapp2.2\EmployeesManagement.Repository.deps.json
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\bin\Debug\netcoreapp2.2\EmployeesManagement.Repository.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\bin\Debug\netcoreapp2.2\EmployeesManagement.Repository.pdb
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.AssemblyInfoInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.AssemblyInfo.cs
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.csproj.CoreCompileInputs.cache
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.dll
+E:\BackUpOldLaptop\Work\EmployeesManagementAPI\EmployeesManagement\EmployeesManagement.Repository\obj\Debug\netcoreapp2.2\EmployeesManagement.Repository.pdb
